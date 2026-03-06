@@ -28,3 +28,6 @@
   Enter the News Title and the Full Article Body in the text boxes.
   Click Analyze Credibility.
   The app will display whether the news is classified as REAL (Label: 0) or FAKE (Label: 1).
+
+ ## Dataset
+The dataset used in this project is the **WELFake Dataset**, available on Kaggle.
